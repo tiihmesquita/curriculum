@@ -1,0 +1,133 @@
+.container{
+
+    background-color: rgb(250, 238, 223);
+    height: 1000px;
+    width: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 300px;
+    flex-direction: row;
+
+
+}
+img{
+    border-radius: 50%;
+}
+.border{
+    margin-top: 20px;
+}
+.ano {
+    margin-top: 50px;
+    margin-left: 150px;
+    font-family: 'Californian FB';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    color: white;
+    
+
+}
+.nome {
+    
+    font-family: 'Californian FB';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 27px;
+    line-height: 25px;
+    color: white;
+
+}
+.nome2 {
+    
+font-family: 'Californian FB';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+color: white;
+
+}
+
+.esquerdo{
+    width: 300px;
+    height: 1000px;
+    background-color: #314353;
+    text-align: center;
+}
+.direito{
+    display: flex;
+    width: 600px;
+    height: 1000px;
+    background-color: #EDF1FA;
+}
+.perfil{
+    margin-top: 80px;
+    font-family: 'Californian FB';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: white;
+    margin-right: 120px;
+
+}
+.perfilinha{
+    
+    border: 1px solid white;
+   
+    margin-left: 70px;
+
+}
+.perfildesc{
+    
+    margin-top: 50px;
+    font-family: 'Californian FB';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 17px;
+    line-height: 15px;
+    color: white;
+    margin-left: 69px;
+
+}
+.perfil2{
+    margin-top: 40px;
+    font-family: 'Californian FB';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: white;
+    margin-right: 120px;
+
+}
+.perfildesc2{
+    
+   
+    font-family: 'Californian FB';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 14px;
+    line-height: 15px;
+    color: white;
+    margin-left: 69px;
+
+}.perfil23{
+    margin-top: 10px;
+    font-family: 'Californian FB';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 25px;
+    color: white;
+    margin-right: 100px;
+
+}.perfilinha2{
+    margin-top: 50px;
+    border: 1px solid white;
+   
+    margin-left: 70px;
+
+}
