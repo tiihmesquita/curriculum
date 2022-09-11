@@ -39,6 +39,34 @@ img{
     color: white;
 
 }
+.esq-nome{
+    font-family: 'Californian FB';
+    font-style: normal;
+    font-weight: 550;
+    font-size: 27px;
+    line-height: 25px;
+    color: #314353;
+    font-family: 'Californian FB';
+    margin-top: 50px;
+    margin-left: 150px;
+
+
+}
+.esq-perfilinha{
+    
+    border: 1px solid #314353;
+   margin-left: 148px;
+    
+
+}
+.esq-perfilinha444{
+    
+    border: 0.1px solid #314353;
+   margin-left: 148px;
+    
+
+}
+
 .nome2 {
     
 font-family: 'Californian FB';
@@ -79,6 +107,49 @@ color: white;
    
     margin-left: 70px;
 
+}
+.esq-perfildesc{
+    margin-top: 27px;
+    font-family: 'Californian FB';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 23px;
+    line-height: 15px;
+    color: #314353;
+    margin-left: 140px;
+
+}
+.esq-perfildesc2{
+    margin-top: 5px;
+    font-family: 'Californian FB';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 18px;
+    line-height: 15px;
+    color: #314353;
+    margin-left: 140px;
+    margin-bottom: 20px;
+}
+.esq-perfildesc33{
+    margin-top: 20px;
+    font-family: 'Californian FB';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 18px;
+    line-height: 15px;
+    color: #314353;
+    margin-left: 130px;
+    margin-bottom: 20px;
+}
+.esq-perfildesc3{
+    margin-top: 5px;
+    font-family: 'Californian FB';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 17px;
+    line-height: 15px;
+    color: #314353;
+    margin-left: 130px;
 }
 .perfildesc{
     
